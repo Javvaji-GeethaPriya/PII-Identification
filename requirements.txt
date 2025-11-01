@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+presidio-analyzer
+python-multipart
+pdfplumber
+python-docx
+pytesseract
+pdf2image
+pillow
